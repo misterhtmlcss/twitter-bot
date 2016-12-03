@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "0.0.1",
+  "description": "I am creating a Twitter bot from Daniel Shiffman's courses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterhtmlcss/twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "misterhtmlcss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterhtmlcss/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/misterhtmlcss/twitter-bot#readme"
+}
